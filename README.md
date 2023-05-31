@@ -1,6 +1,7 @@
 
 ## About
-As the CEO of M3 Works, I bring a unique blend of experiences
+I am an engineer, scientific modeler, and the CEO of M3 Works.
+I have a unique blend of experiences
 in software development, mechanical engineering, and scientific
 modeling. My career trajectory started with utilizing computational
 fluid dynamics for wind power estimation in mountainous terrains,
@@ -13,3 +14,7 @@ and continually innovate strategies for monitoring and maintaining our real-time
 snowpack estimation efforts across the Western US. Beyond my professional commitments,
 I am an active contributor to open source Python repositories,
 and relish in the simple pleasures of gardening and cycling.
+
+## Projects
+
+Coming soon...
