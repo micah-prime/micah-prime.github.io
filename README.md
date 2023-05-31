@@ -1,3 +1,5 @@
+
+## About
 As the CEO of M3 Works, I bring a unique blend of experiences
 in software development, mechanical engineering, and scientific
 modeling. My career trajectory started with utilizing computational
