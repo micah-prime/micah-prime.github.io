@@ -1,6 +1,6 @@
 
 ## About
-I am an engineer, scientific modeler, and the CEO of M3 Works.
+I am an engineer, scientific modeler, and CEO of M3 Works.
 I have a unique blend of experiences
 in software development, mechanical engineering, and scientific
 modeling. My career trajectory started with utilizing computational
@@ -18,7 +18,7 @@ and relish in the simple pleasures of gardening and cycling.
 ## Opensource Projects
 
 ### Metloom
-[metloom](https://github.com/M3Works/metloom) metloom is a python 
+[metloom](https://github.com/M3Works/metloom) is a python 
 library created with the goal of consistent, simple sampling of 
 meteorology and snow related point measurments from a variety of 
 datasources across the Western US. Currently, metloom can sample data from
