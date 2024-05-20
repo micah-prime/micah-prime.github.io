@@ -44,6 +44,11 @@ storms in precipitaton data, gaps in temperature data, or flat-lining that
 may indicate a malfunctioning sensor. It can also find erroneous spikes
 to aid in filtering of data. It is a powerful and easy to use data helper!
 
+## Data Visualization
+
+Here are a handful of my favorite visualizations created at M3 Works. These
+are a team effort and took more than just my skills to make.
+If you scroll far enough you'll find my tomato experiment of 2023.
 
 <div class="slideshow">
   <div><img src="/assets/img/idaho_specific_mass_20240404.jpg" alt="iSnobal Snowpack over the Boise River Basin, 2024"></div>
