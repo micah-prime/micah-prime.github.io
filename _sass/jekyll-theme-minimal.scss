@@ -9,6 +9,16 @@ body {
   font-weight:400;
 }
 
+// css for slidshow
+.slideshow {
+width: 80%;
+margin: 0 auto;
+}
+.slideshow img {
+width: 100%;
+height: auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -284,3 +294,4 @@ footer {
     color:#444;
   }
 }
+
