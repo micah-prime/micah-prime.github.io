@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Micah Sandusky
 logo: /assets/img/prime.jpg
 description: I model snow and write geoscience software
+#baseurl: "" # for local development
+#url: "http://localhost:4000" # for local development
